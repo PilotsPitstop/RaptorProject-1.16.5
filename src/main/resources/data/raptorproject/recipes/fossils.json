@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "raptorproject:bone_in_stone"
+  },
+  "result": "raptorproject:fossils",
+  "experience": 0.9,
+  "cookingtime": 400
+}
